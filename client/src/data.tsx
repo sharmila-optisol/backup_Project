@@ -1,0 +1,71 @@
+export const categories =[
+    {
+        id:1,
+        img:"https://m.media-amazon.com/images/I/61KVLSg1GIL._UX679_.jpg",
+        title:"SHIRT STYLE!",
+        cat:"women"
+    },
+    {
+        id:2,
+        img:"https://cdn.shopify.com/s/files/1/0486/0634/7416/products/4_20Way_20Stretch_20Jacket_20_20Pants_20LivIn_20Co-ord_20-_20Pink_L1.jpg?v=1615467377",
+        title:"LOUNGWEAR LOVE!",
+        cat:"coat"
+    },
+    {
+        id:3,
+        img:"https://media.gqindia.com/wp-content/uploads/2022/07/HIGH-SCHOOL-MUSICAL-THE-MUSICAL-THE-SERIES-S3-440x570.jpg",
+        title:"LIGHT JACKETS!",
+        cat:"jeans"
+    }
+]
+
+export const adiProducts =[
+  {
+    id:1,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SLk2lRRz7fikrQSNnHJv0Ka9ZNxnrfManQ&usqp=CAU",
+  },
+  {
+    id:2,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Pisu9mRMPeYcC2AmmkiL68vlBdRkiw6jUw&usqp=CAU",
+  },
+  {
+    id:3,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOw-Zj7Yo-4ES419uCNqJC2WGeu52kRFclQ&usqp=CAU",
+  },
+  {
+    id:4,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLri_8KpronQBYRVHTMqkqwXfCNZxhfLjNnA&usqp=CAU",
+  },
+  {
+    id:5,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXByilzTWnp9lxDetmN2pA-M6NC71Z9qJsWg&usqp=CAU",
+  },
+  {
+    id:6,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAk6OhZyaLJgt4lgZh4uoQZA6NXOB8cUx1dg&usqp=CAU",
+  },
+  {
+    id:7,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLGddBEzURmd1GE4tB-rPlbIA9K-SYHYG2g&usqp=CAU",
+  },
+  {
+    id:8,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2ilWfhwHOx5sNK9ll-TyFzWPIJx3nlCVeA&usqp=CAU",
+  },
+  {
+    id:9,
+    img:"https://rukminim1.flixcart.com/image/332/398/xif0q/jacket/n/w/y/l-mnt-4173-montrez-original-imafwyyufyp8mhsh-bb.jpeg?q=50"
+  },
+  {
+    id:10,
+    img:"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/15421858/2021/12/14/0db5d884-7a0d-4075-9fb7-9f17c79098651639481015554-JUSTICE-Girls-Black-Denim-Jacket-8691639481014950-1.jpg"
+  },
+  {
+    id:11,
+    img:"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14494634/2021/11/29/bf49d63b-f13b-4d32-98cf-2ce0e17d05901638183932653-Sangria-Girls-Jackets-8761638183932390-1.jpg"
+  },
+  {
+    id:12,
+    img:"https://assets.ajio.com/medias/sys_master/root/20220906/fmWa/6316a327f997dd1f8de43b32/fort_collins_yellow_puffer_jacket_with_detachable_hood.jpg"
+  }
+]
